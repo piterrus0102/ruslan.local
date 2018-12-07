@@ -1,0 +1,27 @@
+table{
+	margin-top: 25px;
+	font: 12px Arial;
+	text-align: center;
+	border-collapse: collapse;
+	line-height:17px;
+}
+a{
+	text-decoration: none;
+	color: rgb(80,99,97);
+	padding: 2px;
+}
+a:hover{
+	text-decoration: underline;
+}
+#RED{
+	color: red;
+	font-weight: bold;
+}
+a.grey{
+	color: rgb(140,162,193);
+}
+#bolder td{
+	border-bottom: 1px solid #000;
+	font-weight: bold;
+	border-bottom: 1px solid #000;
+}

@@ -1,0 +1,72 @@
+ul{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+li{
+	margin-right: 13px;
+	display: inline-block;
+}
+a{
+	padding-top: 30px;
+	float: left;
+	text-decoration: none;
+    font: 16px "Times New Roman";
+	color: rgb(203,203,203);
+	display: block;
+}
+a:hover{
+	color: rgb(0,153,255);
+}
+
+#style1{
+	background-image:url("/airplane.png");
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+#style2{
+	background-image:url("/airplane2.png");
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+#style3{
+	background-image:url("/train.png");
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+#style4{
+	background-image:url("/hotel.png");
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+#style5{
+	background-image:url("/hand.png");
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+
+#style1:hover{
+	background-image:url("/airplane-1.png");
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+#style2:hover{
+	background-image:url("/airplane2-1.png");
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+#style3:hover{
+	background-image:url("/train-1.png");
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+#style4:hover{
+	background-image:url("/hotel-1.png");
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+#style5:hover{
+	background-image:url("/hand-1.png");
+	background-repeat: no-repeat;
+	background-position: top center;
+}

@@ -1,0 +1,32 @@
+p{
+	width: 188px;
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 5px;
+	color: white;
+	border: 1px solid #0081E7;
+	padding: 0px 5px;
+	line-height: 30px;
+    background-color: #0081E7;
+    font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+    font: 13px Arial;
+}
+p:hover{
+	color: blue;
+	background-color: #fff;
+	background-image: url("/blue.png");
+	background-position: 90% center;
+	background-repeat: no-repeat;
+}
+
+#active{
+	color: blue;
+	background-color: #fff;
+	background-image: url("/blue.png");
+	background-position: 90% center;
+	background-repeat: no-repeat;
+}
