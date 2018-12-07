@@ -1,3 +1,7 @@
+body {margin: 0;} /*обнуление внешних отступов*/
+
+
+
 div{
 	background-color: rgb(252,157,0);
 	width: 100%;
